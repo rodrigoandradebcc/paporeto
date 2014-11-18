@@ -38,3 +38,4 @@ gem 'start'
 # gem 'debugger', group: [:development, :test]
 gem 'simple_form'
 gem 'slim-rails'
+gem 'pry-rails', group: :development
